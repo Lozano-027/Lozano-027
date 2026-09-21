@@ -1,6 +1,6 @@
 <!--
 CONFIG
-FULL_NAME: Jesús Ariel González Bonilla
+FULL_NAME: Julio Cesar Lozano Lozano
 GITHUB_USER: ariel5253
 -->
 # 👋 ¡Hola! Soy Julio César Lozano
