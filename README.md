@@ -1,7 +1,7 @@
 <!--
 CONFIG
 FULL_NAME: Julio Cesar Lozano Lozano
-GITHUB_USER: ariel5253
+GITHUB_USER: Lozano-027
 -->
 # 👋 ¡Hola! Soy Julio César Lozano
 
